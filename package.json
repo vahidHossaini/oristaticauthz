@@ -1,0 +1,24 @@
+{
+  "name": "oristaticauthz",
+  "version": "0.0.2",
+  "description": "origamicore static authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahidHossaini/oristaticauthz.git"
+  },
+  "keywords": [
+    "origamicore",
+    "static",
+    "authorization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahidHossaini/oristaticauthz/issues"
+  },
+  "homepage": "https://github.com/vahidHossaini/oristaticauthz#readme"
+}
