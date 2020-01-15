@@ -1,6 +1,6 @@
 {
   "name": "oristaticauthz",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "origamicore static authorization",
   "main": "index.js",
   "scripts": {

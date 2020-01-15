@@ -2,7 +2,11 @@ module.exports = class staticAuthzConfig
 {
   constructor(config,dist)
   {
-    this.roles=config.roles
+    this.roles=config.roles    
+    this.bootstrap=require('./bootstrap.js')
+    this.enums=require('./struct.js') 
+    this.tempConfig=require('./config.js')
+
   }
   getRoles(msg,func,self)
   {
